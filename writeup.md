@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/mapping.png "Index Mapping"
+[image1]: http://chuantu.biz/t6/348/1532625470x-1404829115.png "Index Mapping"
 [image2]: ./images/distribution_train.png "Distribution Train"
 [image3]: ./images/distribution_valid.png "Distribution Validation"
 [image4]: ./images/distribution_test.png "Distribution Test"

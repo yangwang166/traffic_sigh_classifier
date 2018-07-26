@@ -48,7 +48,7 @@ Here is an exploratory visualization of the data set.
 
 ##### The mapping of index with Description
 
-<img src="images/mapping.png" />
+![Index Mapping][image1]
 
 ##### The distribution of Train set
 

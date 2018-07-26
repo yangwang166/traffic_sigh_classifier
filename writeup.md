@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [image3]: ./images/distribution_valid.png "Distribution Validation"
 [image4]: ./images/distribution_test.png "Distribution Test"
 [image5]: ./images/all_signs.png "All Signs"
-[image6]: ./images/all_sign2.png "All Signs after preprocessing"
+[image6]: https://github.com/yangwang166/traffic_sigh_classifier/blob/master/images/all_sign2.png "All Signs after preprocessing"
 [image7]: ./images/web_images.png "Web Images"
 [image8]: ./images/web_predict.png "Web Images Prediction"
 [image9]: ./images/softmax.png "Softmax"

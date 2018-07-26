@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image6]: http://chuantu.biz/t6/348/1532625652x-1404829133.png "All Signs after preprocessing"
 [image7]: http://chuantu.biz/t6/348/1532625670x-1404829133.png "Web Images"
 [image8]: http://chuantu.biz/t6/348/1532625704x-1404829133.png "Web Images Prediction"
-[image9]: images/softmax.png "Softmax"
+[image9]: http://chuantu.biz/t6/348/1532625773x-1404829133.png "Softmax"
 
 ## Rubric Points
 Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  

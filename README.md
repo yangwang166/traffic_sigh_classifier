@@ -12,15 +12,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: http://chuantu.biz/t6/348/1532625470x-1404829115.png "Index Mapping"
-[image2]: http://chuantu.biz/t6/348/1532625566x-1404829133.png "Distribution Train"
-[image3]: http://chuantu.biz/t6/348/1532625589x-1404829133.png "Distribution Validation"
-[image4]: http://chuantu.biz/t6/348/1532625607x-1404829133.png "Distribution Test"
-[image5]: http://chuantu.biz/t6/348/1532625630x-1404829133.png "All Signs"
-[image6]: http://chuantu.biz/t6/348/1532625652x-1404829133.png "All Signs after preprocessing"
-[image7]: http://chuantu.biz/t6/348/1532625670x-1404829133.png "Web Images"
-[image8]: http://chuantu.biz/t6/348/1532625704x-1404829133.png "Web Images Prediction"
-[image9]: http://chuantu.biz/t6/348/1532625773x-1404829133.png "Softmax"
+[image1]: images/mapping.png "Index Mapping"
+[image2]: images/distribution_train.png "Distribution Train"
+[image3]: images/distribution_valid.png "Distribution Validation"
+[image4]: images/distribution_test.png "Distribution Test"
+[image5]: images/all_signs.png "All Signs"
+[image6]: images/all_sign2.png "All Signs after preprocessing"
+[image7]: images/web_images.png "Web Images"
+[image8]: images/web_predict.png "Web Images Prediction"
+[image9]: images/softmax.png "Softmax"
 
 ## Rubric Points
 Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
